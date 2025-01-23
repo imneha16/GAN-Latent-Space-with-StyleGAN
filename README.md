@@ -1,4 +1,4 @@
-## 1. Exploring-the-GAN-Latent-Space-with-StyleGAN
+## 1. Exploring the GAN Latent Space with StyleGAN
 The goal of this project is to implement StyleGAN using PyTorch, train it on the given dataset and explore its latent space to generate high-quality facial images. 
 ## 2. Model Architecture
 2.1 Generator
